@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ffff&center=true&vCenter=true&multiline=true&lines=Olá, eu sou o Higor;Always+learning+new+things" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffff&center=true&vCenter=true&multiline=true&lines=Ol%C3%A1,+eu+sou+o+Higor" alt="Typing SVG">
 </p>
 
 ---
@@ -35,8 +35,6 @@
 </div>
 
 ---
-
-### 🐍 Snake eating my contributions
 
 ![snake gif](https://github.com/toucindev/toucindev/blob/output/github-contribution-grid-snake.svg)
 
