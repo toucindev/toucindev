@@ -1,7 +1,5 @@
-<h1 align="center">Olá, eu sou o toucindev 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&center=true&vCenter=true&multiline=true&lines=Desenvolvedor+FullStack;Apaixonado+por+tecnologia;Always+learning+new+things" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ffff&center=true&vCenter=true&multiline=true&lines=Olá, eu sou o Higor;Always+learning+new+things" alt="Typing SVG">
 </p>
 
 ---
